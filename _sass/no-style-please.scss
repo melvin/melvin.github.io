@@ -47,7 +47,9 @@ p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
 
-*:target { background: yellow; }
+a { color: olivedrab; text-decoration: none;}
+
+*:target { background: peachpuff; }
 
 .w {
   max-width: 640px;
@@ -73,7 +75,7 @@ table, th, td {
 
 code {
   color: white;
-  background: darkslategrey;
+  background: darkolivegreen;
 }
 
 div.highlighter-rouge code {
