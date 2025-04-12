@@ -56,13 +56,13 @@
 ## no style please theme settings ##
 ####################################
 
-title: the new normal # name of the site
+title: the mediocrist # name of the site
 author: melvin # name of site's author
 email: # email of site's author
 url: https://melvin.github.io # root address of the site
 # baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A not blog.
+  (noun) a person of no outstanding distinction
 
 permalink: /:slug.html
 
@@ -75,7 +75,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
   lowercase_titles: true # show titles in lowercase in lists
 
 sass:
