@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+
+---
+
+[github]
+
+[linkedin]
+
+[goodreads]
+
+[letterboxd]
