@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Tyrion Fonzarelli
+name: Melvin M
 title: Senior Software Developer
-email: hi@tyrfonz.com
-website: www.github.com/tyrfonz
+email: hi@melvin.net
+website: www.github.com/melvin
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: tyr_the_fonz
-github_username:  tyrfonz
-# stackoverflow_username: "00000001"
+twitter_username: melvin738914687
+# github_username:  melvin
+stackoverflow_username: "melvn"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: melvn41895842
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: jekyll
+youtube_username: melvin412855
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+- title: google.com
+  icon: fas fa-globe
+  url: https://google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,8 +46,10 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/melvin_sneedly.jpg
 about_content: | # this will include new lines to allow paragraphs
+  [THIS ISNT A REAL RESUME]
+
   Software Engineer with 6+ years of experience designing, developing, and deploying scalable web applications.
   Experienced in full-stack development, cloud technologies, CI/CD automation, and Agile software development.
   Passionate about writing maintainable, high-performance code.
@@ -98,21 +100,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Inventory Management Platform
-        link: github.com/tyrfonz/inventory
+        title: Media Management Platform
+        link: github.com/melvin/mmp
         # link_text: Project Website
         additional_links:
-          - title:  tyrfonz/inventory
+          - title:  melvin/mmp
             icon: fab fa-github
-            url: github.com/tyrfonz/inventory
+            url: github.com/melvin/mmp
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Organize and automate your inventory at the touch of a button.
+          Organize and automate your media at the touch of a button.
         description: | # this will include new lines to allow paragraphs
-          * Built a cloud-native inventory platform using React, Spring Boot, PostgreSQL, and AWS.
-          * Integrated OAuth authentication and role-based security.
+          * Built a cloud-native media management platform using React, Spring Boot, PostgreSQL, and AWS.
           * Achieved 99.9% application uptime.
 
   - title: Education # Title for the section
@@ -123,7 +124,7 @@ content:
         caption: 2011 - 2019
         sub_title: BSc Computer Science
         description: |
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Sample University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
       - layout: left
         title: Certifications
         description: |
@@ -135,9 +136,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      - Playing basketball
+      - Mentoring
+      - Wordworking
+      - Learning foreign languages
 
 # Footer
 footer_show_references: false
